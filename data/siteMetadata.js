@@ -6,7 +6,7 @@ const siteMetadata = {
   description: "Stephane Le Dorze's personnal Blog",
   language: 'en-us',
   theme: 'system', // system, dark or light
-  // siteUrl: 'https://sledorze.github.io/portfolio',
+  siteUrl: 'https://sledorze.github.io/portfolio',
   // siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/stephane-le-dorze.jpeg',
   socialBanner: '/static/images/twitter-card.png',
@@ -16,7 +16,7 @@ const siteMetadata = {
   twitter: 'https://twitter.com/stephaneledorze',
   // facebook: 'https://facebook.com',
   // youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com/in/stephaneledorze/',
+  linkedin: 'https://www.linkedin.com/in/stephaneledorze',
   // threads: 'https://www.threads.net',
   // instagram: 'https://www.instagram.com',
   locale: 'en-US',
